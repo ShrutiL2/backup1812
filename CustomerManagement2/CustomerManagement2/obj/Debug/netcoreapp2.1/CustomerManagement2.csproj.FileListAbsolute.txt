@@ -1,0 +1,14 @@
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\bin\Debug\netcoreapp2.1\CustomerManagement2.deps.json
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\bin\Debug\netcoreapp2.1\CustomerManagement2.runtimeconfig.json
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\bin\Debug\netcoreapp2.1\CustomerManagement2.runtimeconfig.dev.json
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\bin\Debug\netcoreapp2.1\CustomerManagement2.dll
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\bin\Debug\netcoreapp2.1\CustomerManagement2.pdb
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.csproj.CoreCompileInputs.cache
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.RazorAssemblyInfo.cache
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.RazorAssemblyInfo.cs
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.AssemblyInfoInputs.cache
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.AssemblyInfo.cs
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.RazorTargetAssemblyInfo.cache
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.dll
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.pdb
+C:\Users\1000074025\source\repos\CustomerManagement2\CustomerManagement2\obj\Debug\netcoreapp2.1\CustomerManagement2.csprojAssemblyReference.cache
